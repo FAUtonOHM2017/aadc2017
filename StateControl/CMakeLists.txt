@@ -1,0 +1,2 @@
+add_subdirectory(StateControlManagementSLIM)
+add_subdirectory(ScmJuryCommunication)

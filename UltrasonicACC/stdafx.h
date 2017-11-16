@@ -1,0 +1,29 @@
+/**
+ *
+ * Standard includes.
+ *
+ * @file
+ * Copyright &copy; Audi Electronics Venture GmbH. All rights reserved
+ *
+ * $Author: belkera $
+ * $Date: 2011-06-30 16:51:21 +0200 (Do, 30 Jun 2011) $
+ * $Revision: 26514 $
+ *
+ * @remarks
+ *
+ */
+#ifndef __STD_INCLUDES_HEADER
+#define __STD_INCLUDES_HEADER
+
+#include <adtf_plugin_sdk.h>
+using namespace adtf;
+
+
+#include "TUltrasonicStruct.h"
+#include "TSignalValue.h"
+#include "TActionStruct.h"
+#include "TFeedbackStruct.h"
+#include "ScmCommunication.h"
+
+
+#endif // __STD_INCLUDES_HEADER
